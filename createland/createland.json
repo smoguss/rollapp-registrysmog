@@ -10,14 +10,14 @@
       "displayDenom": "CLD",
       "baseDenom": "uCLD",
       "decimals": 18,
-      "logo": "/logos/createland_6587852-1.png",
+      "logo": "/logos/createland.jpg",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/createland_6587852-1.png",
+  "logo": "/logos/createland.jpg",
   "ibc": {
     "hubChannel": "channel-7150",
     "channel": "channel-1",
