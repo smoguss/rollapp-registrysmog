@@ -2,7 +2,7 @@
 {
   "chainId": "createland_6587852-1",
   "chainName": "createland_6587852-1",
-  "rpc": "",
+  "rpc": "https://138.68.74.253",
   "rest": "",
   "bech32Prefix": "ethm",
   "currencies": [
