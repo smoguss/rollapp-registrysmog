@@ -2,8 +2,8 @@
 {
   "chainId": "createland_6587852-1",
   "chainName": "createland_6587852-1",
-  "rpc": "https://138.68.74.253",
-  "rest": "",
+  "rpc": "https://138.68.74.253:26657",
+  "rest": "https://138.68.74.253:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -25,7 +25,7 @@
   },
   "evm": {
     "chainId": "0x6485cc",
-    "rpc": ""
+    "rpc": "https://138.68.74.253:1317"
   },
   "type": "RollApp",
   "da": "Avail",
